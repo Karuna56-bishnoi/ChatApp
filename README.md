@@ -35,8 +35,8 @@ To run this app locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone 
+
 <b>Install dependencies for both client and server</b>
 
 bash
