@@ -1,63 +1,56 @@
-💬 ChatApp
+# 💬 ChatApp
+
 This is a real-time chat application where users can communicate instantly—just like WhatsApp or Messenger. <br>
 It features live message updates, typing indicators, and a smooth, responsive user interface.
 
-📱 Overview
+---
+
+## 📱 Overview
+
 ChatApp is a fully functional real-time messaging platform built with modern web technologies. <br>
 It allows users to send and receive messages instantly with features like typing status and user presence indicators. <br>
 Whether chatting with friends or testing out real-time web apps, ChatApp provides a seamless experience.
 
-✨ Features
-<b>Real-Time Messaging</b> – Instantly send and receive messages. <br>
+---
 
-<b>Typing Indicators</b> – See when the other user is typing. <br>
+## ✨ Features
 
-<b>Online/Offline Status</b> – View which users are currently active. <br>
+- **Real-Time Messaging** – Instantly send and receive messages. <br>
+- **Typing Indicators** – See when the other user is typing. <br>
+- **Online/Offline Status** – View which users are currently active. <br>
+- **User Authentication** – Secure sign up and login functionality. <br>
+- **Responsive Design** – Optimized for both desktop and mobile devices. <br>
 
-<b>User Authentication</b> – Secure sign up and login functionality. <br>
+---
 
-<b>Responsive Design</b> – Optimized for both desktop and mobile devices. <br>
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-<b>Frontend:</b> React.js <br>
+- **Frontend:** React.js <br>
+- **Backend:** Node.js, Express.js <br>
+- **Real-Time Communication:** Socket.IO <br>
+- **Database:** MongoDB <br>
 
-<b>Backend:</b> Node.js, Express.js <br>
+---
 
-<b>Real-Time Communication:</b> Socket.IO <br>
+## 🚀 Getting Started
 
-<b>Database:</b> MongoDB <br>
-
-🚀 Getting Started
 To run this app locally:
 
-<b>Clone the repository</b>
-
-
-Copy
-Edit
-git clone 
-
-<b>Install dependencies for both client and server</b>
-
-
-Copy
-Edit
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Karuna56-bishnoi/ChatApp.git
+   cd ChatApp
+2. **Install dependencies for both client and server**
 cd client
 npm install
 cd ../server
 npm install
-<b>Run the development servers</b>
 
+3. **Run the development servers** 
 Start backend server:
-
-arduino
-Copy
-Edit
 npm run server
-Start frontend development server:
 
-Copy
-Edit
+Start frontend development server:
 cd ../client
 npm start
-Open your browser and go to http://localhost:3000 <br>
+4. Open your browser and go to http://localhost:3000 <br>
