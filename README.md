@@ -32,14 +32,14 @@ To run this app locally:
 
 <b>Clone the repository</b>
 
-bash
+
 Copy
 Edit
 git clone 
 
 <b>Install dependencies for both client and server</b>
 
-bash
+
 Copy
 Edit
 cd client
@@ -56,7 +56,6 @@ Edit
 npm run server
 Start frontend development server:
 
-bash
 Copy
 Edit
 cd ../client
